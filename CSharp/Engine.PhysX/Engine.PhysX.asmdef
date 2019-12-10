@@ -1,0 +1,11 @@
+{
+    "name": "Engine.PhysX",
+    "references": [
+        "Engine.Base",
+        "External.Protobuf"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
